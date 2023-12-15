@@ -26,12 +26,13 @@ https://www.kaggle.com/code/plasticglass/yolov8-safety-helmet-detection
 | Head     | 500    | 668       | 0.915     | 0.873  | 0.937  | 0.609    |
 | Person   | 500    | 69        | 1         | 0      | 0.0138 | 0.00533  |
 
-## Contributors
-
-* [Hongrok Lim](https://hongroklim.github.io/)
-
 
 &nbsp;
 
 ### How To Use
 TBU
+
+## Contributors
+
+* [Hongrok Lim](https://hongroklim.github.io/)
+* [Won Gyeom](https://github.com/GyeomE)
