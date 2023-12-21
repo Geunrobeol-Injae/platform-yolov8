@@ -34,6 +34,7 @@ TBU
 
 ## Contributors
 
+* [JiEun Park](https://github.com/rioju412)
 * [Hongrok Lim](https://hongroklim.github.io/)
 * [Won Gyeom](https://github.com/GyeomE)
 * [Suhyun Yun](https://github.com/yun-suhyun)
